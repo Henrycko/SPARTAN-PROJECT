@@ -70,7 +70,7 @@ load
 clear
 hackbae
 echo "▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"                                           
-echo "♥     Thanks To, Dzakira Alzena Daiva      ♥"
+echo "★     Thanks To, Dzakira Alzena Daiva     ★"
 echo "▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"   
 echo " Mulai Paladin Project?"
 echo "y/n?"
