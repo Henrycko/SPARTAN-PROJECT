@@ -1,30 +1,5 @@
 #!/bin/bash
-#///////////////////////////////////////////////////////////////////////////////
-#///////////////////////////////////////////////////////////////////////////////
-#////                       _            _  __                              ////
-#////                      | |          (_)/ _|                             ////
-#////                   ___| |_   _  ___ _| |_ ___ _ __                     ////
-#////                  |_  / | | | |/ __| |  _/ _ \ '__|                    ////
-#////                   / /| | |_| | (__| | ||  __/ |                       ////
-#////                  /___|_|\__,_|\___|_|_| \___|_|                       ////
-#////                                                                       ////
-#///////////////////////////////////////////////////////////////////////////////
-#///////////////////////////////////////////////////////////////////////////////
-hackbae(){
-echo "  _    _            _      ____              "
-sleep 0.03
-echo " | |  | |          | |    |  _ \             "
-sleep 0.03
-echo " | |__| | __ _  ___| | __ | |_) | __ _  ___  "
-sleep 0.03
-echo " |  __  |/ _' |/ __| |/ / |  _ < / _' |/ _ \ "
-sleep 0.03
-echo " | |  | | (_| | (__|   <  | |_) | (_| |  __/ "
-sleep 0.03
-echo " |_|  |_|\__,_|\___|_|\_\ |____/ \__,_|\___| "
-sleep 0.03
-echo                                         
-}                                            
+                                         
 paladin(){
 echo "            ,             /@@@@@=-"
 sleep 0.03
@@ -66,7 +41,7 @@ echo "     (   /              )  / \    \  \/"
 sleep 0.03
 echo "     /  /              /  /   \    )"
 sleep 0.03
-echo " ---/  /   Paladin ---/  /-----)  /-----"
+echo " ---/  /   Spartan ---/  /-----)  /-----"
 sleep 0.03
 echo "  _/__/   Project!  _/__/     /  /"
 sleep 0.03
@@ -74,7 +49,7 @@ echo " /__/              /__/     _/__/"
 sleep 0.03
 echo "                           /__/"
 echo " ======================================="
-echo " ==         Paladin Project           =="
+echo " ==         SPARTAN PROJECT           =="
 echo " ======================================="
 }
 load(){
@@ -94,9 +69,9 @@ echo "Loading.."
 load
 clear
 hackbae
-echo "============================================"                                            
-echo "==    Selamat datang di Paladin Project   =="
-echo "============================================"   
+echo "▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"                                           
+echo "♥     Thanks To, Dzakira Alzena Daiva      ♥"
+echo "▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"   
 echo " Mulai Paladin Project?"
 echo "y/n?"
 read start
@@ -134,7 +109,7 @@ if [ $start = "y" ]; then
         echo "Masukan Port Ngrok"
         read port_ngrok
         echo "===================================="        
-        echo "  Membuat Backdoor Menggunakan  "
+        echo "  Membuat Backdoor Menggunakan? "
         echo "  IP   :$ip_ngrok               "
         echo "  Port :$port_ngrok             "
         echo "===================================="
@@ -154,7 +129,7 @@ if [ $start = "y" ]; then
             read start_metasploit
             if [ $start_metasploit = "y" ]; then
                 clear
-                echo "Loading.."
+                echo "Loading..."
                 load
                 clear
                 paladin
