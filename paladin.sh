@@ -48,9 +48,9 @@ sleep 0.03
 echo " /__/              /__/     _/__/"
 sleep 0.03
 echo "                           /__/"
-echo " ======================================="
-echo " ==         SPARTAN PROJECT           =="
-echo " ======================================="
+echo "======================================="
+echo "~          SPARTAN PROJECT            ~"
+echo "======================================="
 }
 load(){
     echo -e "\n"
@@ -69,9 +69,9 @@ echo "Loading.."
 load
 clear
 hackbae
-echo "▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"                                           
-echo "★     Thanks To, Dzakira Alzena Daiva     ★"
-echo "▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"   
+echo "============================================"
+echo "~     Thanks To, Dzakira Alzena Daiva      ~"
+echo "============================================"   
 echo " Mulai Paladin Project?"
 echo "y/n?"
 read start
