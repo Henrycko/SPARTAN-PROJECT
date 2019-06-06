@@ -1,6 +1,5 @@
 #!/bin/bash
-                                         
-paladin(){
+spartan(){
 echo "            ,             /@@@@@=-"
 sleep 0.03
 echo "            \\\            @@@@@@@@@@=-"
@@ -49,7 +48,7 @@ echo " /__/              /__/     _/__/"
 sleep 0.03
 echo "                           /__/"
 echo "======================================="
-echo "~          SPARTAN PROJECT            ~"
+echo "~           SPARTAN PROJECT           ~"
 echo "======================================="
 }
 load(){
@@ -70,7 +69,7 @@ load
 clear
 hackbae
 echo "============================================"
-echo "~     Thanks To, Dzakira Alzena Daiva      ~"
+echo "~    Selamat Datang Di Spartan Project     ~"
 echo "============================================"   
 echo " Mulai Paladin Project?"
 echo "y/n?"
